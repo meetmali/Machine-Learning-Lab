@@ -1,6 +1,7 @@
 # Machine-Learning-Lab
 
-<img width="1119" alt="Screenshot 2022-08-22 at 11 27 17 AM" src="https:[//www.google.com/url?sa=i&url=https%3A%2F%2Fbuiltin.com%2Fartificial-intelligence%2Fmachine-learning-examples-applications&psig=AOvVaw1FtAk4G95668Nj86Hcdwtz&ust=1675396588347000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjAtOb49fwCFQAAAAAdAAAAABAE](https://builtin.com/sites/www.builtin.com/files/styles/og/public/2021-12/machine-learning-examples-applications.png)">
+![image](https://user-images.githubusercontent.com/96412583/216235770-dc8bda7a-7829-437b-9c4b-9e1e19f04619.png)
+
 
 This is my Pre-final year subject. The data structure programs which I would be practising in python has been documented in this Repo.
 
@@ -23,7 +24,7 @@ In the Exam there won't be internet connection.
 
 Platform choosing --> Pycharm
 
-Viva Question:
+Viva Questions:
 What dataset are you using?
 Why you have choosen this dataset?
 missing variavble is there or not?
