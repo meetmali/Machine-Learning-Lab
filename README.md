@@ -10,15 +10,15 @@ This is my Pre-final year subject. The data structure programs which I would be 
 | 1         | `Linear Regression with single variable`   |
 | 2         | `Linear Regression with multiple variable`   |
 | 3         | `Logistic Regression`   |
-| 4         | `WAP to implement Kruskal Algorithm for Minimum Cost Spanning Tree`   |
-| 5         | `WWAP to implement Fractional Knapsack Problem using Greedy Approacht`   |
-| 6         | `WAP to implement 0/1 Knapsack using Dynamic Programming`   |
-| 7         | `WAP to implement Dijktstra Algorithm for Single source shortest path`   |
-| 8         | `WAP to implement All Pair Shortest Path using Dynamic Programming`   |
-| 9         | `WAP to implement DFS and BFS traversal in graphs`   |
-| 10        | `WAP to implement 0/1 Knapsack using Dynamic Programming`   |
-| 11        | `WAP to implement Sum of Subset Problem using Backtracking`   |
-| 12        | `WAP to implement N-Queen Problem using Backtracking`   |
+| 4         | `Decision tree as classifier`   |
+| 5         | `Implement decision tree as regression`   |
+| 6         | `Naive bayes algorithm`   |
+| 7         | `KNN classification`   |
+| 8         | `SVM SUPPORT VECTOR MACHINE`   |
+| 9         | `K MEANS CLUSTERING`   |
+| 10        | `PCA PRINCIPAL COMPONENT ANALYSIS`   |
+| 11        | `CASE STUDY OF ANY ML APPLICATION PROBLEM SOL DATA SET KAHA SE LIVA DATA SET EXPLAIN ROW COLUM FEATURES PATTERN`  |
+
 
 In the Exam there won't be internet connection.
 
@@ -42,3 +42,10 @@ Top 10 Respository of machine learing.
 Famous Datasets
 
 Report has to be built for ML Project.
+
+EXAMPLE BASED PRESENTATION
+SOLVING A REAL LIFE PROBLEM
+DATA SET AND USKA SOURCE
+DATA ANALYSIS
+FEATURES - ATTRIBUTES
+HOW TO REPLACE MISSING VALUE
